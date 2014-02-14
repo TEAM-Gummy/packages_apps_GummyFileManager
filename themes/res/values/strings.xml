@@ -17,6 +17,6 @@
 
 <resources>
     <!-- The dark theme strings -->
-    <string name="dark_theme_name">Dark Theme</string>
-    <string name="dark_theme_desc">A dark theme for CyanogenMod File Manager.</string>
+    <string name="dark_theme_name">Holo Dark Theme</string>
+    <string name="dark_theme_desc">A holo dark file manager UI.</string>
 </resources>
