@@ -17,6 +17,9 @@
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
+    <!-- The default background color -->
+    <color name="default_background">@android:color/black</color>
+
     <!-- The text color of TextView controls -->
     <color name="text_color">#99ffffff</color>
 
