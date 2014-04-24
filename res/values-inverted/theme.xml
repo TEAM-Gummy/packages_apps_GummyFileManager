@@ -26,6 +26,8 @@
     <!-- The highlight color for terms found in the search result -->
     <color name="search_highlight_color">#9933b5e5</color>
 
+    <!-- The background color of the navigation drawer -->
+    <color name="drawer_color">#ff000000</color>
     <!-- Dividers -->
     <color name="horizontal_divider_color">#99505050</color>
     <color name="vertical_divider_color">#99505050</color>
